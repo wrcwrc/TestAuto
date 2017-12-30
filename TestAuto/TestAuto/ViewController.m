@@ -19,6 +19,7 @@
     
     UIAlertView *aler=[[UIAlertView alloc]initWithTitle:@"asdasd" message:@"0" delegate:nil cancelButtonTitle:@"cacle" otherButtonTitles:@"OK", nil];
     [aler show];
+    NSLog(@"ssss");
     
 }
 
